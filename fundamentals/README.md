@@ -1,1 +1,4 @@
-Fundamentos de Robótica de la carrera de Ingeniería Robótica
+# Robotics Fundamentals subject
+
+- Part 1:
+- Part 2:
